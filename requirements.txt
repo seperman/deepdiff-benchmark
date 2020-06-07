@@ -1,0 +1,4 @@
+deepdiff==5.0.0
+numpy==1.18.2
+psrecord==1.2
+matplotlib==3.2.1
